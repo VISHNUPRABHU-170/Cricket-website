@@ -1,0 +1,23 @@
+*{
+    background-color: rgba(red, green, blue, alpha);
+}
+section{
+    background-image: url('https://media.istockphoto.com/photos/cricket-ball-sitting-in-the-grass-under-the-afternoon-sun-picture-id941548588?k=20&m=941548588&s=612x612&w=0&h=P3prnF46C-B2MeE9GGLmgIirDj12TITiNA9xTlMhRck=');
+}   
+h1{
+    text-align: center;
+    color: orangered;
+}
+.button{
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    color: whitesmoke;
+    font-size: x-large;
+}
+button{
+    padding: 10px;
+    width: 245px;
+    color: blue;
+    background-color: orangered;
+}

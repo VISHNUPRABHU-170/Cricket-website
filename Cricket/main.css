@@ -1,0 +1,57 @@
+button{
+    height: 25px;
+    width: 200px;
+    background-color: black;
+    color: white;
+}
+.div{
+    font-size: large;
+    background-image: url('https://media.istockphoto.com/photos/closeup-of-red-cricket-ball-and-bat-sitting-on-grass-picture-id177427917?b=1&k=20&m=177427917&s=170667a&w=0&h=EDjuygOLoDdEJ8NxfB8NrSEj_awRE5Ag7mAnpphJecg=');
+}
+table, th, td {
+border: 1px solid black;
+border-collapse: collapse;
+height: 50px;
+font-size: x-large;
+width: 1200px;
+}
+table{
+    background-image: url('https://media.istockphoto.com/photos/silver-trophy-cup-at-podium-on-blurred-stadium-background-picture-id1395493752?k=20&m=1395493752&s=612x612&w=0&h=KTZmJ04PNpc9P9u6yX3qGPp9meFApJXlyU8KHjIrhUI=');
+}
+.div{
+column-count: 2;
+}
+.but{
+justify-content: center;
+height: 80px;
+width: 1300px;
+font-size: x-large;
+}
+.button{
+height: 40px;
+width: 400px;
+background-color: blue;
+color: orange;
+
+}
+.img1{
+column-count: 3;
+}
+.his{
+background-image: url('https://media.istockphoto.com/photos/empty-green-grass-field-and-illuminated-outdoor-stadium-with-fans-picture-id1176722220?k=20&m=1176722220&s=612x612&w=0&h=tJV0ToRFmvRBbiZnCxGzxiozzncPC8hTAXfI-03Jr1k=');
+}
+.sachin{
+background-image: url('https://img.mensxp.com/media/content/2022/Jan/RTR15WQM_61d5c2b630868.jpeg');
+}
+.ms{
+background-image: url('https://media.istockphoto.com/photos/cricket-leather-ball-resting-on-bat-on-the-stadium-pitch-picture-id1255328634?k=20&m=1255328634&s=612x612&w=0&h=qs05DdCsFOJ-ihQcczqB3QcUNWjPpsre6uC-4Qs5zmc=');
+}
+.vk{
+background-image: url('https://media.istockphoto.com/photos/cricket-ball-hitting-the-stumps-picture-id1191513033?k=20&m=1191513033&s=612x612&w=0&h=WbeBrWBKfJWJQVzoJfExwVZAqw-WBPchjzqn1FjYu0A=');
+}
+.rh{
+background-image: url('https://media.istockphoto.com/photos/red-leather-cricket-ball-on-green-grass-under-blue-sky-picture-id182888737?k=20&m=182888737&s=612x612&w=0&h=dvMNjHRkCaag5PvP4SKyZeyr_zDKnYzhbuu_LpapHtQ=');
+}
+.ta{
+background-image: url('https://media.istockphoto.com/photos/cricket-ball-hitting-the-stumps-picture-id1292871520?k=20&m=1292871520&s=612x612&w=0&h=PI0DZycjrwbWm0_LjeedtbM7z0AHHiKUmtRh-K0-aZc=');
+}
